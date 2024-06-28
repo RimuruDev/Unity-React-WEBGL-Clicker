@@ -11,8 +11,8 @@ function UnityApp() {
 
     useEffect(() => {
         const user = {
-            user_id: "666",
-            user_name: "Rimuru Dev"
+            UserId: "666",
+            UserName: "Rimuru Dev"
         };
 
         // Путь до папки со скриптом в юнити - Assets/Codebase/UserDataHandler.cs
